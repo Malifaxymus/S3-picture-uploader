@@ -5,5 +5,5 @@
 - run `npm start` in the terminal
 - watch the magic happen
 
-note: the website sometimes rejects the api call for a reason I cant figure out, if this occurs just run the script again
-note: the website has some holes on their picture data, so you may recieve 1-3 files that are empty, these will have to be mannually removed
+note: the website sometimes rejects the api call for a reason I cant figure out, if this occurs just run the script again.  
+note: the website has some holes on their picture data, so you may recieve 1-3 files that are empty, these will have to be mannually removed.  
